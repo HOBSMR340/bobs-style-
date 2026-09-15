@@ -1,0 +1,6 @@
+{
+  "name": "HOBS STYLE - Boutique de Mode & Prêt-à-Porter",
+  "description": "Plateforme e-commerce professionnelle pour vêtements Homme, Femme, Enfant, Chaussures et Accessoires avec gestion complète des stocks, commandes et multilingue (FR, AR, EN).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
